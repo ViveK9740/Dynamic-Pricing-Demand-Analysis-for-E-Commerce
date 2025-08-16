@@ -1,0 +1,31 @@
+product_id,product_name,category,brand,base_cost,base_price
+1,Prod 1,Beauty,Kairo,593.08,935.77
+2,Prod 2,Beauty,Zephyr,915.43,1236.4
+3,Prod 3,Beauty,Vanta,1305.96,1855.12
+4,Prod 4,Home & Kitchen,Lumio,131.8,194.39
+5,Prod 5,Books,Lumio,315.94,406.59
+6,Prod 6,Home & Kitchen,Lumio,83.44,115.66
+7,Prod 7,Beauty,Lumio,1461.95,1834.38
+8,Prod 8,Beauty,Kairo,795.64,1127.09
+9,Prod 9,Home & Kitchen,Lumio,930.94,1142.02
+10,Prod 10,Home & Kitchen,Astra,1416.19,1987.59
+11,Prod 11,Sports,Lumio,73.15,91.72
+12,Prod 12,Beauty,Vanta,226.96,311.58
+13,Prod 13,Sports,Novac,617.04,760.2
+14,Prod 14,Sports,Vanta,666.48,828.82
+15,Prod 15,Sports,Novac,95.4,145.87
+16,Prod 16,Sports,Astra,622.97,976.19
+17,Prod 17,Books,Novac,1443.7,2208.92
+18,Prod 18,Electronics,Lumio,832.55,1177.26
+19,Prod 19,Books,Kairo,930.2,1185.26
+20,Prod 20,Electronics,Lumio,158.1,252.03
+21,Prod 21,Beauty,Astra,475.56,549.91
+22,Prod 22,Beauty,Kairo,1081.45,1628.21
+23,Prod 23,Sports,Astra,1393.14,2010.28
+24,Prod 24,Books,Zephyr,953.78,1238.87
+25,Prod 25,Beauty,Astra,907.38,1155.66
+26,Prod 26,Beauty,Astra,605.24,960.68
+27,Prod 27,Beauty,Astra,1096.51,1377.43
+28,Prod 28,Sports,Kairo,1080.46,1296.44
+29,Prod 29,Electronics,Lumio,342.49,531.92
+30,Prod 30,Books,Kairo,866.75,1268.04
